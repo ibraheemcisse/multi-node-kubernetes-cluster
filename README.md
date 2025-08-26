@@ -345,6 +345,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if it helped you learn Kubernetes!**
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Ibrahim Cisse](https://github.com/ibraheemcisse)
 
 </div>
