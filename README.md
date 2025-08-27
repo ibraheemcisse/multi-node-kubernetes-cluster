@@ -1,4 +1,4 @@
-# Production-Ready Kubernetes Cluster on AWS
+# Multi-Node-Kubernetes Cluster on AWS
 
 <div align="center">
 
