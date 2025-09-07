@@ -121,7 +121,7 @@ k8s-aws-production/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ibraheemcisse/k8s-aws-production.git
+git clone https://github.com/ibraheemcisse/multi-node-kubernetes-cluster.git
 cd k8s-aws-production/terraform
 
 # Initialize Terraform
